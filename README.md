@@ -2,5 +2,5 @@
 1. Herr der Ringe: - Die Gefährten
 2. Herr der Ringe: - Die zwei Türme
 3. Herr der Ringe: - Die Rückkehr des Köngis
-4. Der Hobbit: Eine unerwartete REise
+4. Der Hobbit: Eine unerwartete Reise
 5. Der Hobbit: Smaugs Einöde
