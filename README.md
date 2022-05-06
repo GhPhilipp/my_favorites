@@ -4,3 +4,4 @@
 3. Herr der Ringe: - Die Rückkehr des Köngis
 4. Der Hobbit: Eine unerwartete Reise
 5. Der Hobbit: Smaugs Einöde
+6. Harry Potter und der Stein der Weisen
