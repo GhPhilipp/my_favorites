@@ -5,3 +5,10 @@
 4. Der Hobbit: Eine unerwartete Reise
 5. Der Hobbit: Smaugs Einöde
 6. Harry Potter und der Stein der Weisen
+
+## Top 5 Serien
+1. Suits
+2. Breaking Bad
+3. Prison Break
+4. Better Call Saul
+5. Love Death & Robots
